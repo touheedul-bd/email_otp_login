@@ -1,0 +1,4 @@
+.env
+vendor/
+users.sqlite
+email.log
